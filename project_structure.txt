@@ -1,0 +1,9 @@
+pdf_tool/
+├── main.py                # Entry point
+├── viewer.py              # PDF Viewer with navigation/search
+├── editor.py              # Merge/Split/Add annotations
+├── utils.py               # Reusable functions
+├── resources/
+│   └── icons/             # Optional toolbar icons
+├── output/                # Processed PDFs saved here
+├── requirements.txt
